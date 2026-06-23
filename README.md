@@ -18,3 +18,6 @@
 ## Day 4 (6/18)
 - while loops, break, random module
 - Guess the number game
+## Day 5 (6/19)
+- Lists: append(), sort(), len(), sum(), max(), min()
+- Student grade manager
