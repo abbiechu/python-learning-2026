@@ -21,3 +21,6 @@
 ## Day 5 (6/19)
 - Lists: append(), sort(), len(), sum(), max(), min()
 - Student grade manager
+## Day 6 (6/20)
+- Dictionaries: key-value pairs, in, .items(), del
+- Contact book
