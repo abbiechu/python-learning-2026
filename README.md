@@ -27,3 +27,8 @@
 ## Day 7 (6/21) — Review Week
 - Rewrote all Day 1-6 exercises from memory without looking at original code
 - Reinforced: list/dict in-place methods, continue, f-strings, loop structure for menu-driven programs
+## Day 8 (6/22)
+- Functions: def, return, parameters vs arguments
+- Square and cube functions
+- is_even function
+
