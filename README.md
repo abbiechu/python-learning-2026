@@ -31,4 +31,6 @@
 - Functions: def, return, parameters vs arguments
 - Square and cube functions
 - is_even function
-
+## Day 9 (6/23)
+- Refactored Day 5 student grade manager into functions
+- Practiced passing parameters and using return values across multiple functions
