@@ -24,3 +24,6 @@
 ## Day 6 (6/20)
 - Dictionaries: key-value pairs, in, .items(), del
 - Contact book
+## Day 7 (6/21) — Review Week
+- Rewrote all Day 1-6 exercises from memory without looking at original code
+- Reinforced: list/dict in-place methods, continue, f-strings, loop structure for menu-driven programs
