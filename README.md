@@ -34,3 +34,8 @@
 ## Day 9 (6/23)
 - Refactored Day 5 student grade manager into functions
 - Practiced passing parameters and using return values across multiple functions
+## Day 10 (6/24)
+- String methods: split(), join(), len()
+- Name formatter
+- Word counter
+- Sentence builder
