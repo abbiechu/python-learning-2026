@@ -39,3 +39,7 @@
 - Name formatter
 - Word counter
 - Sentence builder
+## Day 11 (6/25)
+- File I/O: open(), with statement, write(), readlines(), enumerate()
+- Write names to file
+- Read and count lines from file
