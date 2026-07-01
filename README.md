@@ -43,3 +43,6 @@
 - File I/O: open(), with statement, write(), readlines(), enumerate()
 - Write names to file
 - Read and count lines from file
+## Day 12 (7/1)
+- Integrated functions, file I/O, os module
+- Simple notepad: new / list / read / delete / quit
