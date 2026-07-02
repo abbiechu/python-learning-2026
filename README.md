@@ -46,3 +46,7 @@
 ## Day 12 (7/1)
 - Integrated functions, file I/O, os module
 - Simple notepad: new / list / read / delete / quit
+## Day 13 (7/2)
+- Exceptions: try/except, ValueError, ZeroDivisionError
+- Safe integer input function
+- Safe division program
