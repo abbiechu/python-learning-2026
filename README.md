@@ -50,3 +50,6 @@
 - Exceptions: try/except, ValueError, ZeroDivisionError
 - Safe integer input function
 - Safe division program
+## Day 14 (7/3)
+- Final review: integrated functions, file I/O, try/except
+- Contact Book v2 with persistent storage
