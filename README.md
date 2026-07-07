@@ -53,3 +53,8 @@
 ## Day 14 (7/3)
 - Final review: integrated functions, file I/O, try/except
 - Contact Book v2 with persistent storage
+## Project 1 (7/4–7/8): Student Grade System
+- Full menu-driven program with 8 commands
+- Persistent storage via grades.txt
+- Features: add, list, average, highest, lowest, find, delete
+- Applied: functions, file I/O, dictionary, try/except, loop algorithms
