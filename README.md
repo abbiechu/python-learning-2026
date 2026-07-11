@@ -58,3 +58,8 @@
 - Persistent storage via grades.txt
 - Features: add, list, average, highest, lowest, find, delete
 - Applied: functions, file I/O, dictionary, try/except, loop algorithms
+## Project 2 (7/9-7/11): Expense Tracker
+- Menu-driven expense tracking program
+- Persistent storage via expenses.txt
+- Features: add, list, total, delete
+- Applied: list of tuples, file I/O, enumerate, generator expression
