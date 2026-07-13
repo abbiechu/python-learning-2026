@@ -63,3 +63,7 @@
 - Persistent storage via expenses.txt
 - Features: add, list, total, delete
 - Applied: list of tuples, file I/O, enumerate, generator expression
+## Project 3 (7/11-7/13): Exchange Program Recommender
+- Recommends eligible exchange schools based on GPA and TOEIC
+- Features: check eligibility, list all schools
+- Applied: list of dictionaries, functions, try/except ValueError
